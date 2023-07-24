@@ -2,6 +2,8 @@
 
 I'm Nuno (not a nickname 😛), a passionate and diligent software engineer. I currently work at CERN as a Full Stack Developer where I'm part of a great team that develops software for Particle Accelator Hardware 🚀
 
+*Feel free to reach out to me!*
+
 ## 🧰 Tech Stack
 
 These are some of the technologies I currently work or worked in the past:
@@ -35,5 +37,3 @@ Designed and built an autonomous robot during high school that follows lines and
 
 ### 🕵️ Heavy Machinery Part Browser 
 Created an interactive web app for procuring heavy machinery parts, measurements, and compatibility.
-
-Feel free to reach out to me!

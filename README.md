@@ -6,51 +6,21 @@ I'm Nuno (not a nickname 😛), a passionate and diligent software engineer. I c
 
 These are some of the technologies I currently work or worked in the past:
 
-### Frontend
-- JavaScript
-- HTML5
-- CSS3
-- Vue.js
-- Tailwind.js
-- SASS
-- PrimeVue
-- Vite
-- Figma
-- Storybook
-- Playwright
-- Qt
+|      Frontend      |     Backend     |    Databases    |       DevOps        |    Robotics    |
+|:------------------:|:---------------:|:---------------:|:-------------------:|:--------------:|
+|     JavaScript     |      Python     |    PostgreSQL   |       Docker        |  ROS (Indigo)  |
+|        HTML5       |       Java      |      Sqlite     |  Docker Compose     |     Gazebo     |
+|        CSS3        |     FastAPI     |      Redis      |     Kubernetes      |     MoveIt     |
+|       Vue.js       |      Django     |     MongoDB     |        HELM         |   Move Base    |
+|    Tailwind.js     |      Flask      |                 |      Argo CD        |     Smach      |
+|        SASS        |      nginx      |                 |        Git          |                |
+|     PrimeVue       |     apache      |                 |     GitLab CI       |                |
+|        Vite        |     traefik     |                 |                     |                |
+|       Figma        |                 |                 |                     |                |
+|     Storybook      |                 |                 |                     |                |
+|     Playwright     |                 |                 |                     |                |
+|         Qt         |                 |                 |                     |                |
 
-### Backend
-- Python
-- Java
-- FastAPI
-- Django
-- Flask
-- nginx
-- apache
-- traefik
-
-### Databases
-- PostgreSQL
-- Sqlite
-- Redis
-- MongoDB
-
-### DevOps
-- Docker
-- Docker Compose
-- Kubernetes
-- HELM
-- Argo CD
-- Git
-- GitLab CI
-
-### Robotics
-- ROS (Indigo)
-- Gazebo
-- MoveIt
-- Move Base
-- Smach
 
 ## 🚀 Side Projects
 

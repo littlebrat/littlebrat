@@ -9,10 +9,10 @@ This is my team: https://epc-ccs.web.cern.ch/content/tools
 
 ## 🚀 Side Projects/Activities
 
-_Disclaimer: None of these activities were part of my School/University curriculi or my current job._
+_Disclaimer: None of these activities were part of my University curriculi or my current job._
 
-### 🏭 Assessing Factory Production Processes
-I undertook an extensive journey across various regions of China, visiting more than 30 factories engaged in the production of heavy machinery parts. This expedition was focused on assessing the diverse manufacturing processes, quality control protocols, and operational efficiencies in these facilities. My objective was to gain an in-depth understanding of their production techniques, adherence to safety and quality standards, and the overall reliability of their output in the heavy machinery industry.
+### 🏭 Assessing China's Heavy Machinery Factories: 
+I traveled across China, visiting over 40 factories that produce heavy machinery parts. My aim was to evaluate their manufacturing processes, quality control, and operational efficiency. This allowed me to gain detailed insights into their production methods, compliance with safety and quality standards, and the reliability of their products in the heavy machinery sector.
 
 ### 🕵️ Heavy Machinery Part Browser
 Created an interactive web app for procuring heavy machinery parts, measurements and compatibility.

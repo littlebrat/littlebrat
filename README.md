@@ -28,10 +28,11 @@ These are some of the technologies I currently work or worked in the past:
 |        HTML5       |       Java      |      Sqlite     |  Docker Compose     |     Gazebo     |
 |        CSS3        |     FastAPI     |      Redis      |     Kubernetes      |     MoveIt     |
 |       Vue.js       |      Django     |     MongoDB     |        HELM         |   Move Base    |
-|    Tailwind.js     |      Flask      |                 |      Argo CD        |     Smach      |
+|       React        |      traefik    |                 |      GitLab CI      |     Smach      |
+|    Tailwind.js     |      Flask      |                 |      Argo CD        |                |
 |        SASS        |      nginx      |                 |        Git          |                |
-|     PrimeVue       |     apache      |                 |     GitLab CI       |                |
-|        Vite        |     traefik     |                 |                     |                |
+|     PrimeVue       |     apache      |                 |                     |                |
+|        Vite        |                 |                 |                     |                |
 |       Figma        |                 |                 |                     |                |
 |     Storybook      |                 |                 |                     |                |
 |     Playwright     |                 |                 |                     |                |

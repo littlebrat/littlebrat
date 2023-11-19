@@ -7,7 +7,15 @@ This is my team: https://epc-ccs.web.cern.ch/content/tools
 
 *Feel free to reach out to me!*
 
-## 🚀 Side Projects
+## 🚀 Side Projects/Activities
+
+_Disclaimer: None of these activities were part of my School/University curriculi or my current job._
+
+### 🏭 Assessing Factory Production Processes
+I undertook an extensive journey across various regions of China, visiting more than 30 factories engaged in the production of heavy machinery parts. This expedition was focused on assessing the diverse manufacturing processes, quality control protocols, and operational efficiencies in these facilities. My objective was to gain an in-depth understanding of their production techniques, adherence to safety and quality standards, and the overall reliability of their output in the heavy machinery industry.
+
+### 🕵️ Heavy Machinery Part Browser
+Created an interactive web app for procuring heavy machinery parts, measurements and compatibility.
 
 ### 🕷️ Hexapod | [Video](http://youtu.be/Opzd3Esc2lg)
 Led a team of 10 to build a Hexapod robot from scratch, with an active role in software and hardware design. Used an Arduino and Raspberry Pi to control its 18 independent joints. This project won a 3D printer at Lisbon Maker Faire.
@@ -17,9 +25,6 @@ Competed in RoboCup 2016 and European Robotics League 2016. I was in charge of a
 
 ### 🚙 A Differential Drive Robot | [Video](https://youtu.be/SjuJ2os2flo)
 Designed and built an autonomous robot during high school that follows lines and avoids obstacles.
-
-### 🕵️ Heavy Machinery Part Browser 
-Created an interactive web app for procuring heavy machinery parts, measurements, and compatibility.
 
 ## 🧰 Tech Stack
 

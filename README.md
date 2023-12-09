@@ -11,9 +11,6 @@ This is my team: https://epc-ccs.web.cern.ch/content/tools
 
 _Disclaimer: None of these activities were part of my University curriculi or my current job._
 
-### 🏭 Assessing China's Heavy Machinery Factories: 
-I traveled across China, visiting over 40 factories that produce heavy machinery parts. My aim was to evaluate their manufacturing processes, quality control, and operational efficiency. This allowed me to gain detailed insights into their production methods, compliance with safety and quality standards, and the reliability of their products in the heavy machinery sector.
-
 ### 🕵️ Heavy Machinery Part Browser
 Created an interactive web app for procuring heavy machinery parts, measurements and compatibility.
 
@@ -25,6 +22,9 @@ Competed in RoboCup 2016 and European Robotics League 2016. I was in charge of a
 
 ### 🚙 A Differential Drive Robot | [Video](https://youtu.be/SjuJ2os2flo)
 Designed and built an autonomous robot during high school that follows lines and avoids obstacles.
+
+### 🏭 Assessing China's Heavy Machinery Factories: 
+I traveled across China, visiting over 40 factories that produce heavy machinery parts. My aim was to evaluate their manufacturing processes, quality control, and operational efficiency. This allowed me to gain detailed insights into their production methods, compliance with safety and quality standards, and the reliability of their products in the heavy machinery sector.
 
 ## 🧰 Tech Stack
 

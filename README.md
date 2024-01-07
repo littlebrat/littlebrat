@@ -32,7 +32,7 @@ Competed in RoboCup 2016 and European Robotics League 2016. I was in charge of a
 
 [![Simple Robot](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FSjuJ2os2flo)](https://youtu.be/SjuJ2os2flo)
 
-Designed and built an autonomous robot that follows lines and avoids obstacles with 
+Designed and built an autonomous robot that follows lines and avoids obstacles with custom made line and color sensors and ultrasound sensors.
 
 ### 🕵️ Heavy Machinery Part Browser
 Created an interactive web app for procuring heavy machinery parts, measurements and compatibility.

@@ -24,9 +24,9 @@ Team leader and coordinator: planning, designing, programming and constructing a
 
 ### 🤖 SocRob Robotics Team
 
-<img width="700" alt="image" src="https://github.com/littlebrat/littlebrat/assets/9057382/b2a4638b-85fd-459d-8bc7-1f815374775c">
-
 Competed in RoboCup 2016 and European Robotics League 2016. I was in charge of a robotic arm for manipulation tasks, configured with ROS and MoveIt planner.
+
+<img height="400" alt="image" src="https://github.com/littlebrat/littlebrat/assets/9057382/b7d671c5-2d62-4a0c-9613-01262097c788">
 
 ### 🚙 A Differential Drive Robot
 

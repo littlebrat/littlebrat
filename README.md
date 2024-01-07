@@ -15,7 +15,12 @@ _Disclaimer: None of these activities were part of my University curriculi or my
 
 [![Hexapod First Run](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOpzd3Esc2lg)](https://www.youtube.com/watch?v=Opzd3Esc2lg)
 
-Led a team of 10 to build a Hexapod robot from scratch, with an active role in software and hardware design. Used an Arduino and Raspberry Pi to control its 18 independent joints. This project won a 3D printer at Lisbon Maker Faire.
+Team leader and coordinator: planning, designing, programming and constructing a real spider robot.
+• Managing a team of 8 people around the main objective of the project.
+• Planning and design of the main circuit board for the Arduino and 18 servo motors.
+• Development of the communication protocol between the Arduino board (C++) and the Raspberry Pi (Python) and main loop for planning and control of the robot.
+• Participation in events: LXReactor 2014, LXReactor Winter 2015, LXReactor 2015, Lisbon Mini Maker Faire 2014, Lisbon Maker Faire 2015 (Awarded 3D printer).
+
 
 ### 🤖 SocRob Robotics Team
 
@@ -27,7 +32,7 @@ Competed in RoboCup 2016 and European Robotics League 2016. I was in charge of a
 
 [![Simple Robot](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FSjuJ2os2flo)](https://youtu.be/SjuJ2os2flo)
 
-Designed and built an autonomous robot during high school that follows lines and avoids obstacles.
+Designed and built an autonomous robot that follows lines and avoids obstacles with 
 
 ### 🕵️ Heavy Machinery Part Browser
 Created an interactive web app for procuring heavy machinery parts, measurements and compatibility.
